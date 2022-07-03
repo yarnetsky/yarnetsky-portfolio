@@ -1,11 +1,16 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is Jerry Yarnetsky'
+description: Supplement materials for my 2022 Annual Report of Professional Activities
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+
+Rank: Assistant Librarian
+Review Year: 5th
+Date of Hire: 1 January 2018
+CV: View CV or download pdf version
+Intended Area of Very Strong performance: Service
