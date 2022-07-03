@@ -5,7 +5,7 @@ image: assets/images/data-smog.png
 permalink: /philosophy
 ---
 
-<img src="assets/img/data-smog.png" class="hero-image" alt="" style="width:100%; height:auto;">
+<img src="assets/images/data-smog.png" class="hero-image" alt="" style="width:100%; height:auto;">
 
 ## Philosophy of Librarianship
 
