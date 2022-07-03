@@ -5,8 +5,6 @@ image: assets/images/data-smog.png
 permalink: /philosophy
 ---
 
-<img src="assets/images/data-smog.png" class="hero-image" alt="" style="width:100%; height:auto;">
-
 ## Philosophy of Librarianship
 
 I am a member of a three-librarian team collaboratively overseeing our libraries' web services. My concentration is on user experience— encompassing areas such as information architecture, content management, usability testing, and web accessibility. I also manage our frontline services such as our LibGuides publishing system and LibCal online reservation system. When our team's work is at its best, you stop noticing it — it just works. Just as you've internalized driving a car, our library systems should be just as natural. The joy, or frustration, should come from your research, and not from our tools.
