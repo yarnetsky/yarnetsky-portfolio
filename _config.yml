@@ -6,7 +6,8 @@ description: Supplement materials for my 2022 Annual Report of Professional Acti
 baseurl: "/yarnetsky-portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 151 S. Campus Ave.
+street_address: 151 S. Campus Ave. 
+street_address_2: King Library 302 
 city: Oxford
 state: OH
 zip_code: 45056
