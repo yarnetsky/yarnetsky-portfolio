@@ -8,9 +8,8 @@ author: null
 show_tile: false
 ---
 
-
-Rank: Assistant Librarian
-Review Year: 5th
-Date of Hire: 1 January 2018
-CV: View CV or download pdf version
-Intended Area of Very Strong performance: Service
+- Rank: Assistant Librarian
+- Review Year: 5th
+- Date of Hire: 1 January 2018
+- CV: View CV or download pdf version
+- Intended Area of Very Strong performance: Service
