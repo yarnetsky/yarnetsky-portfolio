@@ -1,40 +1,11 @@
 ---
-layout: about
-title: About
-importance: 4
-permalink: /
-# subtitle: Web Services Librarian at <a href="https://www.lib.miamioh.edu">Miami University Libraries</a>.
-
-# profile:
-#  align: right
-#  image: prof_pic.jpg
-#  address: >
-    
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+layout: page
+title: Philosophy of Librarianship
+image: assets/images/data-smog.png
+permalink: /philosophy
 ---
-<h2>Web Services Librarian at<br><a href="https://www.lib.miamioh.edu">Miami University Libraries</a></h2>
-
-<div class="box" markdown="1">
-
-**Supplement materials for my 2021 Annual Report of Professional Activities**
-
-- **Rank**: Assistant Librarian
-- **Review Year**: 4th
-- **Date of Hire**: 1 January 2018
-- **CV**: [View CV](https://github.com/yarnetsky/yarnetsky.github.io/blob/master/assets/pdf/Yarnetsky-CV-Feb22.pdf) or [download pdf version](https://github.com/yarnetsky/yarnetsky.github.io/raw/master/assets/pdf/Yarnetsky-CV-Feb22.pdf)
-- **Intended Area of Very Strong performance**: Service
-
-</div>
-
-
-<div class="hero-box" markdown="1">
 
 <img src="assets/img/data-smog.png" class="hero-image" alt="" style="width:100%; height:auto;">
-
-<div class="box-content" markdown="1">
 
 ## Philosophy of Librarianship
 
