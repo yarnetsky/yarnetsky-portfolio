@@ -3,10 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description:
-nav: true
-#display_categories: [work, fun]
-horizontal: false
-importance: 1
+nav-menu: true
 ---
 <h2 class="page-header">Annotations on select projects.</h2>
 
