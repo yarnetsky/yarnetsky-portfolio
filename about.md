@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Philosophy of Librarianship
+layout: page
 image: assets/images/data-smog.png
 permalink: /philosophy
 ---
