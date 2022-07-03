@@ -8,7 +8,7 @@ importance: 2
 ---
 <h2 class="page-header">Reports and annotations from selected service.</h2>
 
-![Code 4 Lib national conference website screenshot](/assets/img/code4lib.png#featured)
+![Code 4 Lib national conference website screenshot](/assets/images/code4lib.png#featured)
 
 <div class="accordion" id="service-accordion">
 

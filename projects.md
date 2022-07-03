@@ -10,7 +10,7 @@ importance: 1
 ---
 <h2 class="page-header">Annotations on select projects.</h2>
 
-![Miami University Libraries website screenshot](/assets/img/databases-az.png#featured)
+![Miami University Libraries website screenshot](/assets/images/databases-az.png#featured)
 
 <div class="accordion" id="projects-accordion">
   <div class="card">
@@ -39,7 +39,7 @@ For years our 500+ databases were only accessibly by title. I moved our A-Z Data
 
 ### Proactive Chat Service
 
-![proactive chat box screenshot](/assets/img/proactive-chat.png#right) With chat traffic stagnating, I worked with a team of librarians to improve our libraries’ chat reference service. We decided to implement a proactive service where students are invited to chat automatically if they spend more than 45 seconds on the same page. 
+![proactive chat box screenshot](/assets/images/proactive-chat.png#right) With chat traffic stagnating, I worked with a team of librarians to improve our libraries’ chat reference service. We decided to implement a proactive service where students are invited to chat automatically if they spend more than 45 seconds on the same page. 
 
 The A-Z page pictured above is a good example, you can see the "Ask Us" tab on the side. It's a clean page with clear functionality, yet with more than 500 databases, this is is also a page with overwhelming options. This is a perfect place to have a librarian waiting for help.
 
@@ -60,7 +60,7 @@ I programmed this service into the templates of our website and LibGuides includ
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#projects-accordion">
       <div class="card-body" markdown="1">
         
-![Makerspace reservation system screenshot](/assets/img/reservations.png#featured) 
+![Makerspace reservation system screenshot](/assets/images/reservations.png#featured) 
 
 The Covid-19 pandemic posed a slew of challenges for providing equitable library services. How would in-person services translate online? How do we allow researchers and makers to make full use of the libraries while keeping everyone safe? We needed to quickly plan and implement several new and upgraded virtual services. For each of these projects I collaborated with staff to best understand their needs. I then focused not solely on the needed functionality, but on how our students and staff would interact with the functionality to eliminate as much friction as possible. Here are examples of the various projects required to keep our system running during Covid.
 {: .box}
@@ -104,7 +104,7 @@ myMiami will be retiring in 2022. I was trained on this new upcoming system as t
 
 ### [Training for Freedom documentary website](https://trainingforfreedom.lib.miamioh.edu)
 
-[![Training for Freedom screenshot](/assets/img/train4freedom.png#interior)](https://trainingforfreedom.lib.miamioh.edu)
+[![Training for Freedom screenshot](/assets/images/train4freedom.png#interior)](https://trainingforfreedom.lib.miamioh.edu)
 
 In late 2021, we learned this locally-produced documentary will be distributed nationally by PBS. To prepare the supporting website, created by university archivist Jackie Johnson, for greater traffic, I conducted an accessibility remediation and implemented code updates to make the site mobile friendly. I also provided design assistance in the site's creation phase in 2019.
 
