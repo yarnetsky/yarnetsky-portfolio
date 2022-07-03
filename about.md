@@ -20,5 +20,3 @@ Shenk, D. (1997, May). Data smog. MIT’s Technology Review. p. 18.
 **Image for illustration**
 
 <p><a href="https://historicpittsburgh.org/islandora/object/pitt%3ASCLS003">Corner of Liberty and Fifth Avenues 10:55 AM</a>. (c.1940). Smoke Control Lantern Slide Collection, Historic Pittsburgh hosted by the University of Pittsburgh Library System. A photo from a series of images taken to document the city of Pittsburgh before and after smoke control ordinances were passed regulating the burning of coal.</p>
-</div>
-</div>
